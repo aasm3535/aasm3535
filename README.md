@@ -1,4 +1,4 @@
-#  **Artem** 💻
+#  **Edward** 💻
 
 ## Quick Summary 🚀
 I'm a **full-stack developer** from **Israel** who loves building **autonomous agents** and specialized **tools** to automate complex coding tasks. I work across various tech stacks to engineer **scalable** and **robust** software solutions.
