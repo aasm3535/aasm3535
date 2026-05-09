@@ -56,12 +56,7 @@
 ### Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aasm3535&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=aasm3535&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasm3535&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
